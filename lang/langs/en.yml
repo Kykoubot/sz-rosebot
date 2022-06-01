@@ -1,7 +1,7 @@
 name : English
 
 #menu - menu.py
-menu : "Rose was created on **August 10, 2021**. We are currently developing and maintaining the **WilliamButcherBot**  and **Alita_Robot** plugin, using only the **Pyrogram** libarry.\n\n• **creator** : [supun](https://t.me/supunma)\n• **Language** : [python 3](https://www.python.org/)\n• **Database** : [Mongo db](https://cloud.mongodb.com/)\n• **Server** : [Heroku](https://heroku.com/)\n• **Build Version** : `2.0`\n\n@Theszrosebot"
+menu : "Zebo was created on **August 10, 2021**. We are currently developing and maintaining the **WilliamButcherBot**  and **Alita_Robot** plugin, using only the **Pyrogram** libarry.\n\n• **creator** : [supun](https://t.me/supunma)\n• **Language** : [python 3](https://www.python.org/)\n• **Database** : [Mongo db](https://cloud.mongodb.com/)\n• **Server** : [Heroku](https://heroku.com/)\n• **Build Version** : `2.0`\n\n@Theszrosebot"
 back : "« Back"
 
 #main - main.py
@@ -138,7 +138,7 @@ chatb4 : "**Chat bot Successfully Deactivated In The Chat**❌"
 chatb5 : "I undestand `/chatbot on` and `/chatbot off` only"
 chatb6 : "Rose Bot AI Voice Chatbot"
 chatb7 : "Rose Bot Is Best..."
-chatb8 : "Made By @szteambots..."
+chatb8 : "Made By @zeafeya..."
 chatb9 : "Repyping..."
 chatb10 : "**Chat bot enabled** ✅."
 chatb11 : "**Chat bot Already Activated In This Chat**"
@@ -217,8 +217,8 @@ nm5 : "**You can set nightmode only in groups :(**"
 nm6 : "**Removed This Chat From Database. This Group Will Be No Longer Closed On 12Am(IST)"
 nm7 : "**Not Activated In This Chat**"
 nm8 : "I undestand `/nightmode on` and `/nightmode off` only"
-nm9 : "🌗 12:00 Am, Group Is Closing Till 6 Am. Night Mode Started ! \n**Powered By @szrosebot**"
-nm10 : "🌗 06:00 Am, Group Is Opening.\n**Powered By @szrosebot**"
+nm9 : "🌗 12:00 Am, Group Is Closing Till 6 Am. Night Mode Started ! \n**Powered By @zeamusicuser_bot**"
+nm10 : "🌗 06:00 Am, Group Is Opening.\n**Powered By @zeamusicuser_bot**"
 nm11 : "Give other parameters too "
 nm12 : "Syntax invailed \n Try `/help nightmode`"
 nm13 : "Please enter valid date and time...!"
