@@ -12,7 +12,7 @@ from config import *
 import pymongo
 
 
-SUPPORT_GROUP = "https://t.me/slbotzone"
+SUPPORT_GROUP = "https://t.me/dbzea"
 SUDOERS = SUDO_USERS_ID
 LOG_GROUP_ID = LOG_GROUP_ID
 MOD_LOAD = []
@@ -20,11 +20,11 @@ MOD_NOLOAD = []
 bot_start_time = time.time()
 DB_URI = BASE_DB 
 MONGO_URL = MONGO_URL
-OWNER_ID = 1467358214
+OWNER_ID = 2120344815
 
 
 myclient = pymongo.MongoClient(DB_URI)
-dbn = myclient["supun"]
+dbn = myclient["zeafeya"]
 
 mongo_client = AsyncIOMotorClient(MONGO_URL)
 db = mongo_client.wbb
